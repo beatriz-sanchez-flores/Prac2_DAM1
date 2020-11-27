@@ -40,7 +40,7 @@ Indique si hay error, en caso de encontrar alguno, resuélvalo e indique como ha
 
 * Indique como se pueden realizar conversiones entre tipos, de int a float y viceversa. Pruebe cada una de las funciones existentes de conversiones. Muestre ejemplos.
 
-<img src="Medios\1.png"/>
+<img src="Medios\11.png"/>
 
 * Copie el siguiente código sobre el tipo de dato Bolean e indique de forma generalizada el uso de este tipo de dato
 
